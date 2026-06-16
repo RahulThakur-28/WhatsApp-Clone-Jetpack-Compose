@@ -1,0 +1,55 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Firebase
+google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# APK / AAB
+*.apk
+*.aab
+
+# Kotlin
+.kotlin/
+
+# Generated folders
+out/
+bin/
+
+# Navigation editor temp files
+.idea/navEditor.xml
+
+# Workspace files
+.idea/workspace.xml
+
+# Caches
+.idea/caches/
+.idea/libraries/
+
+# Build outputs
+app/release/
+app/debug/
